@@ -1,0 +1,28 @@
+E:\2-ой семестр\C#\ЛР 3\LR3\bin\Debug\LR3.exe.config
+E:\2-ой семестр\C#\ЛР 3\LR3\bin\Debug\LR3.exe
+E:\2-ой семестр\C#\ЛР 3\LR3\bin\Debug\LR3.pdb
+E:\2-ой семестр\C#\ЛР 3\LR3\obj\Debug\LR3.csprojResolveAssemblyReference.cache
+E:\2-ой семестр\C#\ЛР 3\LR3\obj\Debug\LR3.csproj.CoreCompileInputs.cache
+E:\2-ой семестр\C#\ЛР 3\LR3\obj\Debug\LR3.exe
+E:\2-ой семестр\C#\ЛР 3\LR3\obj\Debug\LR3.pdb
+E:\2-ой семестр\C#\ЛР 3-5\LR3\obj\Debug\LR3.csprojResolveAssemblyReference.cache
+E:\2-ой семестр\C#\ЛР 3-5\LR3\obj\Debug\LR3.csproj.CoreCompileInputs.cache
+E:\2-ой семестр\C#\ЛР 3-5\LR3\obj\Debug\LR3.exe
+E:\2-ой семестр\C#\ЛР 3-5\LR3\obj\Debug\LR3.pdb
+E:\2-ой семестр\C#\ЛР 3-5\LR3\bin\Debug\LR3.exe.config
+E:\2-ой семестр\C#\ЛР 3-5\LR3\bin\Debug\LR3.exe
+E:\2-ой семестр\C#\ЛР 3-5\LR3\bin\Debug\LR3.pdb
+E:\2-ой семестр\C#\ЛР 3-5\LR3-5\bin\Debug\LR3.exe.config
+E:\2-ой семестр\C#\ЛР 3-5\LR3-5\bin\Debug\LR3.exe
+E:\2-ой семестр\C#\ЛР 3-5\LR3-5\bin\Debug\LR3.pdb
+E:\2-ой семестр\C#\ЛР 3-5\LR3-5\obj\Debug\LR3.csprojResolveAssemblyReference.cache
+E:\2-ой семестр\C#\ЛР 3-5\LR3-5\obj\Debug\LR3.csproj.CoreCompileInputs.cache
+E:\2-ой семестр\C#\ЛР 3-5\LR3-5\obj\Debug\LR3.exe
+E:\2-ой семестр\C#\ЛР 3-5\LR3-5\obj\Debug\LR3.pdb
+E:\2-ой семестр\C#\ЛР 3-5, 6\LR 3-5, 6\bin\Debug\LR3.exe.config
+E:\2-ой семестр\C#\ЛР 3-5, 6\LR 3-5, 6\bin\Debug\LR3.exe
+E:\2-ой семестр\C#\ЛР 3-5, 6\LR 3-5, 6\bin\Debug\LR3.pdb
+E:\2-ой семестр\C#\ЛР 3-5, 6\LR 3-5, 6\obj\Debug\LR3.csprojResolveAssemblyReference.cache
+E:\2-ой семестр\C#\ЛР 3-5, 6\LR 3-5, 6\obj\Debug\LR3.csproj.CoreCompileInputs.cache
+E:\2-ой семестр\C#\ЛР 3-5, 6\LR 3-5, 6\obj\Debug\LR3.exe
+E:\2-ой семестр\C#\ЛР 3-5, 6\LR 3-5, 6\obj\Debug\LR3.pdb
